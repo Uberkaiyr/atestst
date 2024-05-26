@@ -1,0 +1,14 @@
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\bin\Debug\net8.0\atestst.exe
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\bin\Debug\net8.0\atestst.deps.json
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\bin\Debug\net8.0\atestst.runtimeconfig.json
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\bin\Debug\net8.0\atestst.dll
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\bin\Debug\net8.0\atestst.pdb
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.AssemblyInfoInputs.cache
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.AssemblyInfo.cs
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.csproj.CoreCompileInputs.cache
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.dll
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\refint\atestst.dll
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.pdb
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\atestst.genruntimeconfig.cache
+D:\учеба\berkaiyr_at\git_berkaiyr\atestst\obj\Debug\net8.0\ref\atestst.dll
