@@ -60,4 +60,4 @@ PrintArray(arraySet);
 Console.WriteLine();               
 string[] arrayRes = ResultArray(arraySet);
 Console.WriteLine("Новый массив из строк, длина которых меньше, либо равна 3 символам:");
-PrintArray(arrayRes);
+PrintArray(arrayRes); 
